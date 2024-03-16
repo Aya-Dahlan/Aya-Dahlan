@@ -15,9 +15,9 @@
 
 ## Connect with Me:
 
-[<img src="https://github.com/Aya-Dahlan/Aya-Dahlan/assets/86652572/2de1ba10-0c66-4828-a77b-f48b8d87b389" alt="download" width="80"/>](www.linkedin.com/in/aya-dahlan-784a14231)
-[<img src="https://github.com/Aya-Dahlan/Aya-Dahlan/assets/86652572/53549fb3-9459-4ad4-87de-0efb1501b45e" alt="download (1)" width="80"/>](https://mostaql.com/u/Aya_Ali_D) 
-[<img src="https://github.com/Aya-Dahlan/Aya-Dahlan/assets/86652572/c46aa419-12e5-4b6f-bd8f-40a0866f20a7" alt="download (2)" width="110"/>](ayaalidahlan@gmail.com)
+[<img src="https://github.com/Aya-Dahlan/Aya-Dahlan/assets/86652572/2de1ba10-0c66-4828-a77b-f48b8d87b389" alt="download" width="50"/>](www.linkedin.com/in/aya-dahlan-784a14231)
+[<img src="https://github.com/Aya-Dahlan/Aya-Dahlan/assets/86652572/53549fb3-9459-4ad4-87de-0efb1501b45e" alt="download (1)" width="50"/>](https://mostaql.com/u/Aya_Ali_D) 
+[<img src="https://github.com/Aya-Dahlan/Aya-Dahlan/assets/86652572/c46aa419-12e5-4b6f-bd8f-40a0866f20a7" alt="download (2)" width="70"/>](ayaalidahlan@gmail.com)
 
   
 ## Languages and Tools:
