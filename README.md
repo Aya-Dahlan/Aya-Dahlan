@@ -10,8 +10,8 @@
 - 📫 How to reach me: ayaalidahlan@gmail.com 
 ## Connect with Me
 
-- [LinkedIn]www.linkedin.com/in/aya-dahlan-784a14231
-- [Mostaql]https://mostaql.com/u/Aya_Ali_D
-- Email: ayaalidahlan@gmail.com
+- [LinkedIn](www.linkedin.com/in/aya-dahlan-784a14231)
+- [Mostaql](https://mostaql.com/u/Aya_Ali_D)
+- Email:ayaalidahlan@gmail.com
 
   
