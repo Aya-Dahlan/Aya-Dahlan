@@ -1,17 +1,20 @@
 <center>
 
-# Hi there 👋 I'm a Flutter Developer👩‍💻
+# Hi 👋 I'm Aya Dahlan 👩‍💻
 
 </center>
 
 
 
-#### - 🔭 I’m currently working on building a mobile applications using Flutter.
-#### - 🌱 I’m currently learning advanced state management techniques in Flutter using providers and Riverpod.
-#### - 👯 I’m looking to collaborate on open-source Flutter projects related to education or social impact.
-#### - 🤔 I’m looking for help with optimizing performance in Flutter apps, particularly with large datasets and complex UI.
-#### - 💬 Ask me about implementing custom animations in Flutter, or best practices for building responsive UI layouts.
-#### - 📫 How to reach me: ayaalidahlan@gmail.com 
+#### Flutter Developer passionate about building clean, scalable and user-friendly mobile applications.
+
+#### 🚀 Flutter & Dart
+#### 🔥 Firebase
+#### 🎨 Responsive UI Design
+#### 📱 REST APIs Integration
+#### 🧩 State Management
+
+#### Currently focused on building real-world Flutter projects and continuously improving software architecture skills.
 
 ## Connect with Me:
 
