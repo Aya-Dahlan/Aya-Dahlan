@@ -33,7 +33,8 @@
 [<img src="https://github.com/Aya-Dahlan/Aya-Dahlan/assets/86652572/1f35369c-ffe8-433f-a144-9d7adb4f72aa" alt="download (12)" width="50"/>](https://visualstudio.microsoft.com/)
 [<img src="https://github.com/Aya-Dahlan/Aya-Dahlan/assets/86652572/71180ad2-3955-48f8-8b11-ab455c2c6155" alt="download (2)" width="50"/>](https://trello.com/)
 [<img src="https://github.com/Aya-Dahlan/Aya-Dahlan/assets/86652572/7e6806c4-320e-4e81-9a86-ae60dd8753df" alt="download (13)" width="50"/>](https://firebase.google.com/)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aya-Dahlan&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-Dahlan&layout=compact)
 
 
 
